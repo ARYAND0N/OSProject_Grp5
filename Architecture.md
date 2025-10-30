@@ -24,7 +24,7 @@ Executable File: The C++ program for process scheduling simulation is compiled i
 
 5.Package Management:
 
-npm (Node Package Manager): Used for installing and managing Node.js packages, such as Express.js.
+npm(Node Package Manager): Used for installing and managing Node.js packages, such as Express.js.
 6. Development Environment:
 
 Text Editor or IDE: Used for writing code. Examples include Visual Studio Code.
